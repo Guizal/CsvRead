@@ -1,0 +1,17 @@
+C:\Users\guilh\source\repos\ImportCsv\ImportCsv\bin\Debug\netcoreapp3.1\ImportCsv.exe
+C:\Users\guilh\source\repos\ImportCsv\ImportCsv\bin\Debug\netcoreapp3.1\ImportCsv.deps.json
+C:\Users\guilh\source\repos\ImportCsv\ImportCsv\bin\Debug\netcoreapp3.1\ImportCsv.runtimeconfig.json
+C:\Users\guilh\source\repos\ImportCsv\ImportCsv\bin\Debug\netcoreapp3.1\ImportCsv.runtimeconfig.dev.json
+C:\Users\guilh\source\repos\ImportCsv\ImportCsv\bin\Debug\netcoreapp3.1\ImportCsv.dll
+C:\Users\guilh\source\repos\ImportCsv\ImportCsv\bin\Debug\netcoreapp3.1\ImportCsv.pdb
+C:\Users\guilh\source\repos\ImportCsv\ImportCsv\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\guilh\source\repos\ImportCsv\ImportCsv\bin\Debug\netcoreapp3.1\TinyCsvParser.dll
+C:\Users\guilh\source\repos\ImportCsv\ImportCsv\obj\Debug\netcoreapp3.1\ImportCsv.csproj.AssemblyReference.cache
+C:\Users\guilh\source\repos\ImportCsv\ImportCsv\obj\Debug\netcoreapp3.1\ImportCsv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\source\repos\ImportCsv\ImportCsv\obj\Debug\netcoreapp3.1\ImportCsv.AssemblyInfoInputs.cache
+C:\Users\guilh\source\repos\ImportCsv\ImportCsv\obj\Debug\netcoreapp3.1\ImportCsv.AssemblyInfo.cs
+C:\Users\guilh\source\repos\ImportCsv\ImportCsv\obj\Debug\netcoreapp3.1\ImportCsv.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\ImportCsv\ImportCsv\obj\Debug\netcoreapp3.1\ImportCsv.csproj.CopyComplete
+C:\Users\guilh\source\repos\ImportCsv\ImportCsv\obj\Debug\netcoreapp3.1\ImportCsv.dll
+C:\Users\guilh\source\repos\ImportCsv\ImportCsv\obj\Debug\netcoreapp3.1\ImportCsv.pdb
+C:\Users\guilh\source\repos\ImportCsv\ImportCsv\obj\Debug\netcoreapp3.1\ImportCsv.genruntimeconfig.cache

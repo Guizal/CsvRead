@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jQ2xbaLS60+A3Yvko+nP460qjA/j1feg3KSdIFfqGHtdsznixSKoQpt4HgxMoKwbmZ9cyyTX035AbqkcRGX5mg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\guilh\\source\\repos\\ImportCsv\\ImportCsv\\ImportCsv.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guilh\\.nuget\\packages\\csvhelper\\27.1.1\\csvhelper.27.1.1.nupkg.sha512",
+    "C:\\Users\\guilh\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\guilh\\.nuget\\packages\\tinycsvparser\\2.6.1\\tinycsvparser.2.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}
